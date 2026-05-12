@@ -23,5 +23,5 @@ This project analyzes student academic performance across core subjects (Math, R
     *   **Strategic Recommendation:** Move away from "one-size-fits-all" curriculum adjustments and instead focus on gender-specific workshops for Math (Females) and Writing (Males).
 
 ### Data Source
-*   **Dataset:** Student Performance in Exams (Kaggle/Educational Data)
+*   **Dataset:** Student Performance in Exams (Kaggle/)
 *   **Key Metrics:** Gender, Math Score, Reading Score, Writing Score.
